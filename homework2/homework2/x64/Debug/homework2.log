@@ -1,0 +1,3 @@
+﻿  homework2.cpp
+D:\c++++\homework2\homework2\homework2.cpp(210,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  homework2.vcxproj -> D:\c++++\homework2\x64\Debug\homework2.exe
